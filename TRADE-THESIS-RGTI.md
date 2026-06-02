@@ -1,7 +1,7 @@
 # Investment Thesis: RGTI — Rigetti Computing, Inc.
 
-**Generated:** June 2, 2026
-**Current Price:** $25.40 | **Market Cap:** ~$8.5B
+**Generated:** June 3, 2026 (updated from June 2 — refreshed price, technicals, short interest, and earnings date)
+**Current Price:** $25.83 | **Market Cap:** ~$8.52B
 **Sector:** Technology / Quantum Computing | **Industry:** Semiconductor Equipment & Materials
 
 > **DISCLAIMER:** This is for educational and research purposes only. Not financial advice. Always do your own due diligence and consult a licensed financial advisor before making investment decisions.
@@ -10,7 +10,7 @@
 
 ## Executive Summary
 
-Rigetti Computing is a vertically integrated quantum computing company building superconducting QPUs (quantum processing units), delivering cloud access via its QCS platform and selling on-premises Novera systems to governments and research institutions. The investment case rests on a Q1 2026 revenue inflection (+193% YoY to $4.4M), a CEO who bought 600,000 shares in early 2026, a $569M war chest with zero debt providing 7+ years of runway at current burn, and the H2 2026 Lyra 336-qubit chip delivery — the first Rigetti system with a realistic path toward demonstrating narrow quantum advantage. The core risk is extreme: the stock trades at ~465x trailing price-to-sales on trivial revenue, dilution is structural, and quantum advantage timelines routinely slip. Expected return in the 12-18 month base case: +18-42%.
+Rigetti Computing is a vertically integrated quantum computing company building superconducting QPUs (quantum processing units), delivering cloud access via its QCS platform and selling on-premises Novera systems to governments and research institutions. The investment case rests on a Q1 2026 revenue inflection (+193% YoY to $4.4M), a CEO who bought 600,000 shares in early 2026, a $569M war chest with zero debt providing ~9.7 years of runway at Q1 2026 non-GAAP burn ($14.7M/quarter), and the H2 2026 Lyra 336-qubit chip delivery — the first Rigetti system with a realistic path toward demonstrating narrow quantum advantage. The core risk is extreme: the stock trades at ~465x trailing price-to-sales on trivial revenue, dilution is structural, and quantum advantage timelines routinely slip. Expected return in the 12-18 month base case: +18-42%.
 
 **Thesis Rating:** Moderately Bullish (Speculative)
 **Conviction Level:** Low-Medium (evidence for growth inflection exists, but valuation requires near-perfect execution)
@@ -102,7 +102,7 @@ IonQ's Q4 2025 revenue surged 429% YoY to $61.9M — that is ~9x Rigetti's entir
 | Anytime | Equity/Dilutive Capital Raise | Negative short-term knee-jerk (~5-15%) depending on size and discount | High (near-certain in 24 months) |
 | Anytime | IBM, Google, or IonQ quantum advantage claim | Negative — sentiment dampener for Rigetti specifically; reduces FOMO bid | Medium |
 
-**Nearest Catalyst:** Q2 2026 Earnings (~August 2026)
+**Nearest Catalyst:** Q2 2026 Earnings — **August 6, 2026 (before market open, confirmed)**
 **Most Important Catalyst:** Lyra 336-qubit chip delivery (H2 2026) — determines whether Rigetti can claim a credible quantum advantage milestone ahead of competitors; this single event likely drives ±30-80% in the stock.
 
 ---
@@ -246,7 +246,7 @@ IonQ's Q4 2025 revenue surged 429% YoY to $61.9M — that is ~9x Rigetti's entir
 - **Business Quality (3/10):** Pre-revenue scale, no demonstrated moat against IBM/Google; however, chiplet architecture and cloud-neutral distribution are legitimate differentiators. Gross margin of 29.1% is acceptable for hardware.
 - **Valuation (2/10):** ~465x P/S on the most favorable forward look. No traditional valuation framework supports current price — this is pure sentiment/optionality pricing. Compared to IonQ (~$4B market cap at 9x FY2026E revenue), RGTI appears stretched.
 - **Growth Trajectory (7/10):** Q1 2026 +193% YoY is real. Novera hardware deliveries and QCaaS ramp are directionally right. Analyst consensus expects 63% CAGR through 2027.
-- **Technical Setup (5/10):** RSI neutral (~59), stock 57% below 52-week high ($58.15), at Fibonacci support ($24.26). Not overbought, near support — but trend is not confirmed upward.
+- **Technical Setup (5/10):** RSI ~35 (daily, near oversold — improved entry signal vs prior reading of ~59), stock 56% below 52-week high ($58.15). Price at $25.83 is below 50-day MA ($34.10, short-term bearish) but above 200-day MA ($22.00, long-term bullish). Golden cross structure intact (50-day > 200-day) but price has not reclaimed the 50-day. Short interest 15.16% of float (50.4M shares) — elevated; potential squeeze catalyst if fundamental news is positive.
 - **Catalyst Clarity (7/10):** Lyra H2 2026 delivery date is specific. Federal contract decisions have known decision timelines. Q2 earnings in August is an upcoming checkpoint. Timeline is clearer than most speculative tech plays.
 - **Risk/Reward (5/10):** 2.72:1 at T2 is reasonable. Dilution risk structurally reduces it. EV positive at +19%.
 
